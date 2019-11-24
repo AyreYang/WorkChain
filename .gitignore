@@ -1,0 +1,8 @@
+WorkChain/.vs/
+WorkChain/packages/
+WorkChain/WorkChain.Core/obj/
+WorkChain/WorkChain.Core/bin/
+WorkChain/WorkChain.Interfaces/obj/
+WorkChain/WorkChain.Interfaces/bin/
+WorkChain/WorkChainWebService/bin/
+WorkChain/WorkChainWebService/obj/
