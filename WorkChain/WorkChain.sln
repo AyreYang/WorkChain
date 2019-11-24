@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkChain.Interfaces", "Wor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkChain.Core", "WorkChain.Core\WorkChain.Core.csproj", "{1A5C4E27-2ABC-4A3C-87E1-6828510A66E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkChain.Components", "WorkChain.Components\WorkChain.Components.csproj", "{4D8E5500-B86D-464C-B408-695FBE674881}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkChain.Enums", "WorkChain.Enums\WorkChain.Enums.csproj", "{8F97A0FA-F05C-4145-9720-C8FF9C740F91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{1A5C4E27-2ABC-4A3C-87E1-6828510A66E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A5C4E27-2ABC-4A3C-87E1-6828510A66E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A5C4E27-2ABC-4A3C-87E1-6828510A66E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D8E5500-B86D-464C-B408-695FBE674881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D8E5500-B86D-464C-B408-695FBE674881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D8E5500-B86D-464C-B408-695FBE674881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D8E5500-B86D-464C-B408-695FBE674881}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F97A0FA-F05C-4145-9720-C8FF9C740F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F97A0FA-F05C-4145-9720-C8FF9C740F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F97A0FA-F05C-4145-9720-C8FF9C740F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F97A0FA-F05C-4145-9720-C8FF9C740F91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

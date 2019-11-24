@@ -43,9 +43,7 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Components\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\WorkChain.Interfaces\WorkChain.Interfaces.csproj">
       <Project>{8dca51e5-fa13-4895-8a5f-4b0bf355f826}</Project>
